@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FruitsApp</string>
+    <string name="main_class">GetFruitsList</string>
+    <string name="custom_adapter">FruitsAdapter</string>
+</resources>
